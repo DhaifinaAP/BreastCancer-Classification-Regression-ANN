@@ -1,3 +1,5 @@
+**BREAST CANCER PREDICTION USING ANN**
+
 Klasifikasi dan Regresi pada dataset "Breast Cancer" dengan menggunakan model ANN (Artificial Neural Network). Kemudian, dilakukan perbandingan dengan hasil klasifikasi dan regresi dengan menggunakan model SVM (Support Vector Machine).
 Link Dataset : https://www.kaggle.com/datasets/erdemtaha/cancer-data
 
