@@ -1,4 +1,4 @@
-# 2108107010018_Pertemuan_11_ANN
+Artificial Neural Network
 Repository ini dibuat guna memenuhi tugas 3 Mata Kuliah Pembelajaran Mesin
 
 Code yang diupload melakukan proses Klasifikasi dan Regresi dataset "Breast Cancer Data Set" dengan menggunakan model ANN (Artificial Neural Network). Kemudian, dilakukan perbandingan dengan hasil klasifikasi dan regresi dengan menggunakan model SVM (Support Vector Machine).
