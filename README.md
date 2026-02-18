@@ -26,6 +26,7 @@ Fitur-fitur ini memberikan informasi penting tentang karakteristik visual kanker
 Setelah dilakukan perbandingan, perbandingan akurasi model klasifikasi menggunakan SVM dan ANN adalah sebagai berikut :
 
 akurasi model ANN = 0.9298245614035088
+
 akurasi model SVM = 
   - kernel linear : 0.9230769230769231
   - kernel rbf    : 0.9370629370629371
