@@ -1,7 +1,4 @@
-Artificial Neural Network
-Repository ini dibuat guna memenuhi tugas 3 Mata Kuliah Pembelajaran Mesin
-
-Code yang diupload melakukan proses Klasifikasi dan Regresi dataset "Breast Cancer Data Set" dengan menggunakan model ANN (Artificial Neural Network). Kemudian, dilakukan perbandingan dengan hasil klasifikasi dan regresi dengan menggunakan model SVM (Support Vector Machine).
+Klasifikasi dan Regresi pada dataset "Breast Cancer" dengan menggunakan model ANN (Artificial Neural Network). Kemudian, dilakukan perbandingan dengan hasil klasifikasi dan regresi dengan menggunakan model SVM (Support Vector Machine).
 Link Dataset : https://www.kaggle.com/datasets/erdemtaha/cancer-data
 
 Dataset ini berisi karakteristik pasien yang terdiagnosis kanker. Dataset berisi ID unik untuk setiap pasien, jenis kanker (diagnosis), karakteristik visual kanker, dan nilai rata-rata karakteristik tersebut.
